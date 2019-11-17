@@ -1,0 +1,18 @@
+h1{
+  color: #fff;
+}
+
+body{
+  background: radial-gradient(transparent, #000), url('../assets/images/index-background.jpg');
+}
+
+nav{
+  background-color: #000;
+}
+
+#logo{
+  vertical-align: middle;
+  width: initial;
+  border-style: none;
+  width: 122px;
+}

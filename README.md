@@ -1,6 +1,4 @@
-# Angular
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+#Funflix - Angular 8 based app
 
 ## Development server
 

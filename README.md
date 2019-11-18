@@ -1,4 +1,4 @@
-#Funflix - Angular 8 based app
+#Funflix - Angular 8 based movies app
 
 ## Development server
 
